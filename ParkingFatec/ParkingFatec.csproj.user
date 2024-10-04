@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Util\BtnRedondo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\CadastroView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\CadastroViewDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\CampoVazioViewDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EsqueceuSenhaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EsqueceuSenhaViewDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\InicioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
